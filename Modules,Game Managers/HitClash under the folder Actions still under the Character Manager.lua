@@ -1,0 +1,3 @@
+local HitClash = {}
+
+return HitClash
